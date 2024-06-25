@@ -1,7 +1,5 @@
 # Hotel_Booking_EDA_Capstone_Project
 
-# Hotel Booking EDA Capstone Project
-
 ## Project Description
 
 This project is an exploratory data analysis (EDA) of hotel booking data. The goal of this analysis is to uncover insights and patterns in the booking data, which can help in understanding customer behavior, booking trends, and potential areas for improvement in hotel management.
